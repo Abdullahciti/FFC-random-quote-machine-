@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "fullName": "Briant Wolfindale",
+    "qouteText": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna",
+    "color": "#2F4F4F"
+  },
+  {
+    "id": 2,
+    "fullName": "Valida Tremayle",
+    "qouteText": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu,",
+    "color": "#00BFFF"
+  },
+  {
+    "id": 3,
+    "fullName": "Sabine Brownhill",
+    "qouteText": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id,",
+    "color": "#B22222"
+  },
+  {
+    "id": 4,
+    "fullName": "Deena Saunder",
+    "qouteText": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In",
+    "color": "#4169E1"
+  },
+  {
+    "id": 5,
+    "fullName": "Umeko Corrie",
+    "qouteText": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non",
+    "color": "#4169E1"
+  },
+  {
+    "id": 6,
+    "fullName": "Valentino Annice",
+    "qouteText": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu",
+    "color": "#556B2F"
+  },
+  {
+    "id": 7,
+    "fullName": "Gerladina Jacobsen",
+    "qouteText": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam",
+    "color": "#8B0000 "
+  },
+  {
+    "id": 8,
+    "fullName": "Amalle McNevin",
+    "qouteText": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie",
+    "color": "#6A5ACD"
+  },
+  {
+    "id": 9,
+    "fullName": "Packston Muggach",
+    "qouteText": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+    "color": "#008B8B"
+  },
+  {
+    "id": 10,
+    "fullName": "Cheston Rooney",
+    "qouteText": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna",
+    "color": "#4B0082"
+  }
+]

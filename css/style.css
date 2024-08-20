@@ -1,0 +1,84 @@
+:root{
+    --bg-main-color: rgb(71, 72, 74);
+    --main-transition: 1s all ease;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg-main-color);;
+    height: 100vh;
+    width: 100%;
+    transition: var(--main-transition);
+}
+.container {
+    padding: 25px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 2px;
+    background-color: white;
+    .qoute-box {
+        display: flex;
+        flex-direction: column;
+        padding: 0 18px;
+        .qoute {
+            color: var(--bg-main-color);
+            .author {
+                margin: 15px 0;
+                color: var(--bg-main-color);
+                transition: var(--main-transition);
+                opacity: 0.9;
+                float: right;
+            }
+        }
+        .row {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            align-items: center; 
+            justify-content: space-between;
+            margin: 15px 0;
+            .social-icons {
+                color: white;
+                display: flex;
+                gap: 12px;
+                font-size: 28px;
+                i {
+                    cursor: pointer;
+                    color: var(--bg-main-color);
+                    transition: color 1s ease;
+                    transition: opacity 0.25s ease;
+                    &:hover {
+                        opacity: 0.9;
+                    }
+                }
+            }
+            .new-qoute {
+                border: none;
+                padding: 12px 10px;
+                border-radius: 2px;
+                color: white;
+                background-color: var(--bg-main-color);
+                transition: opactiy 0.25s ease;
+                transition: background-color 1s ease;
+                &:hover {
+                    cursor: pointer;
+                    opacity: 0.9;
+                }
+
+            }
+        }
+    }
+}
+
+@media (min-width: 480px) {
+    .container {
+        max-width: 60%;
+    }
+}
